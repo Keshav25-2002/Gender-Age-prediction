@@ -1,4 +1,4 @@
-# Gender-Age-prediction
+# Gender-Age-prediction using CNN-Image classification
 
 Dataset Information:
 
